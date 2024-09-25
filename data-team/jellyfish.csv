@@ -1,0 +1,3 @@
+﻿date,address,latitude,longitude,jellyfish_type,density,is_toxic,appearance_ratio
+2024-09-05,제주서귀포시강정항,36.154123,126.63112,유령해파리,저밀도,TRUE,0.22
+2024-09-05,제주서귀포시강정항,36.154123,126.63112,노무라입깃해파리,저밀도,TRUE,0.22
